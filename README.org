@@ -2,8 +2,9 @@
 
 Pretty Multliline Strings for Common Lisp
 
+
 |---------+-----------------------------------------|
 | source  | git:https://git.sr.ht/~shunter/mstrings |
-| commit  | 7a94c070                                |
+| commit  | 7a94c07                                 |
 | systems | mstrings                                |
 |---------+-----------------------------------------|
